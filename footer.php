@@ -24,7 +24,7 @@
 		?>
 		
 	</div><!-- .site-wrapper -->
-	
+	<h1>devansh</h1>
 	<?php do_action( 'kapee_body_bottom' ); ?>
 	<?php wp_footer(); ?>
 	</body>
